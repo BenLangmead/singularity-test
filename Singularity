@@ -2,4 +2,4 @@ Bootstrap: docker
 From: alpine
 
 %help
-'Singularity' in master branch, commit 1
+'Singularity' in branch1, commit 2
