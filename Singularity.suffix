@@ -1,0 +1,5 @@
+Bootstrap: docker
+From: alpine
+
+%help
+'Singularity.suffix' in master branch, commit 1
