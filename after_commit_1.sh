@@ -32,6 +32,10 @@ get_help shub://BenLangmead/singularity-test@suffix \
 	 ${SINGULARITY_CACHEDIR}/BenLangmead-singularity-test-master-latest.simg
 rm -f ${SINGULARITY_CACHEDIR}/BenLangmead-singularity-test*
 
+get_help shub://BenLangmead/singularity-test:suffix@master \
+	 ${SINGULARITY_CACHEDIR}/BenLangmead-singularity-test-master-suffix.simg
+rm -f ${SINGULARITY_CACHEDIR}/BenLangmead-singularity-test*
+
 get_help shub://BenLangmead/singularity-test@2482a2cb640df4cf45c50ffcee30b29ae8c0ce1b \
 	 ${SINGULARITY_CACHEDIR}/BenLangmead-singularity-test-master-latest.simg
 rm -f ${SINGULARITY_CACHEDIR}/BenLangmead-singularity-test*
