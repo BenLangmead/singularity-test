@@ -2,4 +2,4 @@ Bootstrap: docker
 From: alpine
 
 %help
-'Singularity.suffix' in branch1, commit 2
+'Singularity.suffix' in branch branch1, commit 2
